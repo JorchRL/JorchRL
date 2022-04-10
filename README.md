@@ -3,6 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorchrl&label=Profile%20views&color=0e75b6&style=flat" alt="jorchrl" /> </p>
 
+<h3>Check some of my projects!</h3>
+
+- [A pokedex app](https://github.com/JorchRL/pokedex-next) I designed. I am building it with Next.js, TailwindCSS and TypeScript. I am also documenting the process in a post series on my blog. Here is the first post: [How to think and learn about desgin. Also, I'm designing and building a Pokédex!](https://jorgerl.hashnode.dev/how-to-think-and-learn-about-design-also-im-designing-and-building-a-pokedex)
+
+- A [space tourism website](https://github.com/JorchRL/spaceTourism-website) challenge from FrontEnd Mentor. Built with React and SaSS
+
+- A [simple ToDo app made with AWSAmplify and Next.js](https://github.com/JorchRL/amplify-todo-tutorial). I wrote a blog post about the process: [How to (and why) go *serverless*](https://jorgerl.hashnode.dev/how-to-and-why-go-serverless)
+
+- A ["portfolio" website landing page](https://github.com/JorchRL/katitos). Made following a tutorial. 
+
+<h3>Check out some of my featured articles on Hashnode!</h3>
+
+- [Networking for Success!]()
+- [Watch me build stuff. Exhibit A: Chrome Extensions](https://jorgerl.hashnode.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions)
+- [Ligometry. Figuring out what I don't know, yet](https://jorgerl.hashnode.dev/01-lygometry-figuring-out-what-i-dont-know-yet)
+- [How to think and learn about design. Also, I'm designing and building a Pokédex!](https://jorgerl.hashnode.dev/how-to-think-and-learn-about-design-also-im-designing-and-building-a-pokedex)
+
+<h3>Here's some info about me!</h3>
+
 - 🔭 I’m currently working on [My Blog](https://jorgerl.hashnode.dev)
 
 - 🌱 I’m currently learning **FullStack and Blockchain development :3**
