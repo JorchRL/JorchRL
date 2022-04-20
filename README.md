@@ -15,7 +15,7 @@
 
 - [My work from the Haskell MOOC](https://github.com/JorchRL/HaskellMOOC-Solutions) by the University of Helsinki
 
-- [My work from the FullStack MOOC](https://github.com/JorchRL/FullStackOpen) by the University of Hellsinki
+- [My work from the FullStack MOOC](https://github.com/JorchRL/FullStackOpen) by the University of Helsinki
 
 - [My series "Will Code 4 Food" on my blog](https://blog.jrlgs.dev/series/will-code-for-food)
 
