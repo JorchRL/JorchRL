@@ -11,7 +11,13 @@
 
 - A [simple ToDo app made with AWSAmplify and Next.js](https://github.com/JorchRL/amplify-todo-tutorial). I wrote a blog post about the process: [How to (and why) go *serverless*](https://jorgerl.hashnode.dev/how-to-and-why-go-serverless)
 
-- A ["portfolio" website landing page](https://github.com/JorchRL/katitos). Made following a tutorial. 
+<h3>What I am learning</h3>
+
+- [My work from the Haskell MOOC](https://github.com/JorchRL/HaskellMOOC-Solutions) by the University of Helsinki
+
+- [My work from the FullStack MOOC](https://github.com/JorchRL/FullStackOpen) by the University of Hellsinki
+
+- [My series "Will Code 4 Food" on my blog](https://blog.jrlgs.dev/series/will-code-for-food)
 
 <h3>Check out some of my featured articles on Hashnode!</h3>
 
