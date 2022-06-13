@@ -1,55 +1,61 @@
 <h1 align="center">Hi 👋, I'm Jorge Romero</h1>
-<h3 align="center">I am on a journey to become a software developer!</h3>
+<h3 align="center">I do software stuff. Maybe you should hire me?</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jorchrl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jorchrl" /></p>
+<h2>You can find me at these social networks :D</h2>
+<p align="center"> <a href="https://linkedin.com/in/jorchrl"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://twitter.com/jrlgs"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://blog.jrlgs.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> </p>
+<h2>I'm building this thing! It's a big project (for me)</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorchrl&label=Profile%20views&color=0e75b6&style=flat" alt="jorchrl" /> </p>
+- A new as-of-yet-unnamed [game engine using Deno and Three.js and the Webview library](https://github.com/JorchRL/Desktop3D-with-Deno). Check it out! Suggestions welcome! 
+ 
+- I wrote a blog post on Hashnode about this: [Toying with Deno. Making a... Game Engine?](https://blog.jrlgs.dev/toying-with-deno-making-a-game-engine). Which got featured! You can read it here: 
 
-<h3>Check some of my projects!</h3>
+<p class="blog-thumnail" align="center" ><a href="https://blog.jrlgs.dev/toying-with-deno-making-a-game-engine"><img width="400" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1655056519821%2FKAZoAvH9K.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a></p>
+<h3>Also check some of my other smaller projects!</h3>
 
-- [A pokedex app](https://github.com/JorchRL/pokedex-next) I designed. I am building it with Next.js, TailwindCSS and TypeScript. I am also documenting the process in a post series on my blog. Here is the first post: [How to think and learn about desgin. Also, I'm designing and building a Pokédex!](https://jorgerl.hashnode.dev/how-to-think-and-learn-about-design-also-im-designing-and-building-a-pokedex)
+- **Design**: [A pokedex app](https://github.com/JorchRL/pokedex-next) I designed. And plain to build it (someday) with Next.js, TailwindCSS and TypeScript. I am also documenting the process in a post series on my blog. Here is the first post: [How to think and learn about desgin. Also, I'm designing and building a Pokédex!](https://jorgerl.hashnode.dev/how-to-think-and-learn-about-design-also-im-designing-and-building-a-pokedex)
 
-- A [space tourism website](https://github.com/JorchRL/spaceTourism-website) challenge from FrontEnd Mentor. Built with React and SaSS
+- **Cloud**: A [simple ToDo app made with AWSAmplify and Next.js](https://github.com/JorchRL/amplify-todo-tutorial). I wrote a blog post about the process: [How to (and why) go *serverless*](https://jorgerl.hashnode.dev/how-to-and-why-go-serverless)
 
-- A [simple ToDo app made with AWSAmplify and Next.js](https://github.com/JorchRL/amplify-todo-tutorial). I wrote a blog post about the process: [How to (and why) go *serverless*](https://jorgerl.hashnode.dev/how-to-and-why-go-serverless)
 
-<h3>What I am learning</h3>
+<h3>Get a glimpse of what I'm learning and maybe hire me?</h3>
 
-- [My work from the Haskell MOOC](https://github.com/JorchRL/HaskellMOOC-Solutions) by the University of Helsinki
-
-- [My work from the FullStack MOOC](https://github.com/JorchRL/FullStackOpen) by the University of Helsinki
-
-- [My series "Will Code 4 Food" on my blog](https://blog.jrlgs.dev/series/will-code-for-food)
+- My series ["Will Code 4 Food" on my blog](https://blog.jrlgs.dev/series/will-code-for-food)
 
 <h3>Check out some of my featured articles on Hashnode!</h3>
 
-- [Networking for Success!]()
-- [Watch me build stuff. Exhibit A: Chrome Extensions](https://jorgerl.hashnode.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions)
-- [Ligometry. Figuring out what I don't know, yet](https://jorgerl.hashnode.dev/01-lygometry-figuring-out-what-i-dont-know-yet)
-- [How to think and learn about design. Also, I'm designing and building a Pokédex!](https://jorgerl.hashnode.dev/how-to-think-and-learn-about-design-also-im-designing-and-building-a-pokedex)
+<a href="https://blog.jrlgs.dev/01-lygometry-figuring-out-what-i-dont-know-yet"><img style="" width="250" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1647631592729%2FiDywMwUDe.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><a href="https://blog.jrlgs.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions"><img width="250" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1648236621343%2F0fhJHoUh6.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><a href="https://blog.jrlgs.dev/how-to-think-and-learn-about-design-also-im-designing-and-building-a-pokedex"><img width="250" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1649217732987%2F89H7Qs0yB.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><a href="https://blog.jrlgs.dev/networking-for-success"><img width="250" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1646934722168%2FnkvXu_WHT.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a><a href="https://blog.jrlgs.dev/toying-with-deno-making-a-game-engine"><img width="250" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1655056519821%2FKAZoAvH9K.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a>
 
 <h3>Here's some info about me!</h3>
 
-- 🔭 I’m currently working on [My Blog](https://jorgerl.hashnode.dev)
+- 🔭 I’m currently working on [My Blog](https://jorgerl.hashnode.dev) **But I'm also looking for a job!!!**
 
-- 🌱 I’m currently learning **FullStack and Blockchain development :3**
+- 🌱 I’m currently learning **Software development in general. Kinda want to go into 3D graphics and Game Dev stuff. I also like the JAMstack & Serverless stuff!**
 
 - 👯 I’m looking to collaborate on **Open source projects so I can learn**
 
-- 💬 Ask me about **Cognitive Science, Philosophy and Math!**
+- 💬 Ask me about **Cognitive Science, Creativity, Philosophy and Math!**
 
 - 📫 How to reach me **jorch.rl@gmail.com**
 
-- ⚡ Fun fact **I'm not that bad at drawing!**
+- ⚡ Fun fact **I'm not that bad at drawing! And I'm starting to think I may not be too bad at programming either :D**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jorchrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorchrl" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jorgerl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jorgerl" height="30" width="40" /></a>
-</p>
+<h2  align="center"style="font-size: 2.5rem"> 💻Tech Stack I use</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  /><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  /><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"  /><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"  /><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"  /><img src="
+https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"  /><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  /><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  /><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  /><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  />
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jorchRL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jorchRL" /></a></p><br><br>
+<h4 align="center">But I will learn YOUR tech stack!</h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorchrl&show_icons=true&locale=en&layout=compact" alt="jorchrl" /></p>
+<h2 align="center" style="font-size:2.1rem"> 📊Check my GitHub Stats </h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JorchRL&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"  /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorchRL&theme=tokyonight&hide_border=true" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchRL&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+
+<h2 align ="center">🏆GitHub Trophies </h2>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JorchRL&theme=nord&no-frame=false&no-bg=false&margin-w=4" /> </p>
+
+  <h2 align="center"> 💰You can help me by Donating! </h2>
+  
+  <p align="center"><a href="https://buymeacoffee.com/jorchRL">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a></p> 
+  
