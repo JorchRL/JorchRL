@@ -7,7 +7,7 @@
 <a href="https://blog.jrlgs.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> </p>
 
 
-<h2>I'm building this thing! It's a big project (for me)</h2>
+<h2>I'm building this thing! 👇 It's a big project (for me)</h2>
 
 - A new as-of-yet-unnamed [game engine using Deno and Three.js and the Webview library](https://github.com/JorchRL/Desktop3D-with-Deno). Check it out! Suggestions welcome! 
 <p align="center">
