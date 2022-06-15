@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jorge Romero</h1>
 <h3 align="center">I do software stuff. Maybe you should hire me?</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorchrl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jorchrl" /></p>
-<h2>You can find me at these social networks :D</h2>
+<!-- <h2>You can find me at these social networks :D</h2> -->
 <p align="center"> <a href="https://linkedin.com/in/jorchrl"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://twitter.com/jrlgs"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://blog.jrlgs.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> </p>
------
+
+
 <h2>I'm building this thing! It's a big project (for me)</h2>
 - A new as-of-yet-unnamed [game engine using Deno and Three.js and the Webview library](https://github.com/JorchRL/Desktop3D-with-Deno). Check it out! Suggestions welcome! 
 <p align="center">
