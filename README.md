@@ -8,10 +8,12 @@
 
 
 <h2>I'm building this thing! It's a big project (for me)</h2>
+
 - A new as-of-yet-unnamed [game engine using Deno and Three.js and the Webview library](https://github.com/JorchRL/Desktop3D-with-Deno). Check it out! Suggestions welcome! 
 <p align="center">
 <img src="https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
 <img src="https://img.shields.io/badge/three.js-white?style=for-the-badge&logo=three.js&logoColor=black" /></p>
+
 - I wrote a blog post on Hashnode about this: [Toying with Deno. Making a... Game Engine?](https://blog.jrlgs.dev/toying-with-deno-making-a-game-engine). Which got featured! You can read it here: 
 
 <p class="blog-thumnail" align="center" ><a href="https://blog.jrlgs.dev/toying-with-deno-making-a-game-engine"><img width="400" src="https://blog.jrlgs.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1655056519821%2FKAZoAvH9K.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" /></a></p>
