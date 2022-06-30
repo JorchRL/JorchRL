@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Romero</h1>
-<h3 align="center">I do software stuff. Maybe you should hire me?</h3>
+<h3 align="center">I do software stuff. Maybe you should <a href="mailto:jorch.rl@gmail.com">hire me?</a></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorchrl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jorchrl" /></p>
 <!-- <h2>You can find me at these social networks :D</h2> -->
 <p align="center"> <a href="https://linkedin.com/in/jorchrl"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
